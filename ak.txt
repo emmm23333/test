@@ -1,0 +1,9 @@
+登录地址：https://auth.huaweicloud.com/authui/login.html?service=https://console.huaweicloud.com/devcloud/#/login
+请选择IAM用户登录，具体信息如下：
+登录名：hw40947684    
+用户名：hw7390f23df15e9d1332ac116481a9          
+密码：tss1385618     
+
+如要通过API的方式管理华为云资源，AK/SK信息如下：
+AK:9Q4JLDULVHUVGNGOYFEA           
+SK:GYg2mhMAWuVSQV3vyU8A52OLhq5rthT78mSTtgre
